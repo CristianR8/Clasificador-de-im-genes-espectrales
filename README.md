@@ -1,0 +1,1 @@
+Proyecto #5 - Clasificador de imagenes espectrales
